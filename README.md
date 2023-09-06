@@ -25,6 +25,4 @@ The template provides sections for your objective, education, skills, and contac
 
 Feel free to tailor the CV template to your specific requirements, including adding additional sections or styles.
 
-## License
-
-This project is open-source and available under the MIT License. You are free to use and modify it for personal or professional purposes. See the [LICENSE](LICENSE) file for more details.
+----
